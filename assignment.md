@@ -2,7 +2,7 @@
 
 [Assignment 2 on GitHub Classroom](https://classroom.github.com/a/Z2sWwnXF) 
 
-## Objective hi
+## Objective
 Demonstrate your understanding of git, GitHub, Markdown, and basic Python environment management by completing the following tasks
 
 
