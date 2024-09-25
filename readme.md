@@ -12,7 +12,7 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000.
 
 ### Solution: 
-
+```python
 values = [0]
 
 for x in range(1001):
@@ -24,7 +24,7 @@ for x in range(1001):
 sumval = sum(values)
 
 print(sumval)
-
+```
 
 ## Photos practice: 
 
