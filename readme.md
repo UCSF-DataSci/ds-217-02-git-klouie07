@@ -30,7 +30,7 @@ print(sumval)
 
 ![screenshot of numpy installation](numpy-install-venv.png)
 
-Click on the image!
+*Click on the image below*
 
 [![image of Olympics meme](https://preview.redd.it/name-a-better-duo-than-harry-and-expelliarmus-v0-petyufs92mjd1.jpeg?width=640&crop=smart&auto=webp&s=215fcfab77e56d54d19606a9b205f1e49c7428fd)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
